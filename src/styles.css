@@ -1,0 +1,42 @@
+body {
+  margin: 100px auto;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #555;
+}
+
+.social-wrapper {
+  padding: 30px 50px;
+}
+
+.social {
+  display: inline-block;
+  margin: 0 15px;
+  transition: transform 0.05s;
+}
+
+.social:hover {
+  transform: scale(1.1);
+}
+
+.youtube {
+  color: #c4302b;
+}
+
+.twitter {
+  color: dodgerblue;
+}
+
+.instagram {
+  color: #cd486b;
+}
+
+.github {
+  color: #000;
+}
